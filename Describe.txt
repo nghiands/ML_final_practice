@@ -1,3 +1,4 @@
 Đây là những phần mình đã thực hành trong môn Học máy cơ bản bao gồm:
   - Phân tích tỉ lệ sống sót trong tập dữ liệu Titanic
   - Sử dụng 2/4 thuật toán cơ bản trong học máy (Radom Forest, SVM, Decision Tree, Naive Bayes) để áp dụng vào bộ dữ liệu thực tế
+  - Tôi sử dụng thuật toán Decision Tree và Naive Bayes để đưa ra dự đoán bệnh nhân có bị tiểu đường hay không dựa vào các chỉ số glucose (lượng đường trong máu) và bloodpressure (huyết áp)
